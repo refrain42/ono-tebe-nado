@@ -75,11 +75,11 @@
     padding: 165px 42px 0;
 }
 
-.letter_spacing_thirty {
+.letter_spacing_narrow {
     letter-spacing: 30px;
 }
 
-.letter_spacing_sixty {
+.letter_spacing_wide {
     letter-spacing: 60px;
 }
 
